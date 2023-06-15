@@ -1,0 +1,5 @@
+About:
+-ES6
+-Classes
+-fetch
+-async - await
